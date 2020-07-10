@@ -66,3 +66,29 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+
+#loginModal .modal-header{
+        background: #512da8;
+        color: floralwhite;
+}
+
+#loginModal .modal-header button{
+    color: floralwhite;
+}
+
+#loginModal .modal-body{
+    background:#d1c4e9;
+}
+
+#reserveModal .modal-header{
+    background: #512da8;
+    color: floralwhite;
+}
+
+#reserveModal .modal-header button{
+color: floralwhite;
+}
+
+#reserveModal .modal-body{
+background:#d1c4e9;
+}
